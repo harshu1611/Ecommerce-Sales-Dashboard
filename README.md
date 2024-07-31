@@ -1,5 +1,5 @@
 # E Commerce Sales Dashboard
-- An interactive dashboard to track and analyze online sales data.
+- An interactive dashboard to track and analyze online sales data created using PowerBI.
 - Used complex parameters to drill down in worksheet and customization using Filters and Slicers.
 - Used different types of customizes visualization (Bar chart, Pie chart, Donut chart, Clustered Bar chart).
 
